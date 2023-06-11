@@ -1,0 +1,18 @@
+html,
+body {
+  align-items: center;
+  margin: 0;
+  padding: 0;
+  color: rgb(255, 147, 219);
+  font-family: courier;
+  background-color: rgb(0, 0, 0);
+  font-size: 12pt;
+  line-height: 8pt;
+}
+canvas {
+  display: block;
+}
+.row {
+  position: fixed;
+  background-color: rgb(0, 0, 0);
+}
